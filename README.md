@@ -1,1 +1,3 @@
-# licencas.json
+{
+  "E1D348D87993F3FEEE542CA88215B4B1": true,
+}
