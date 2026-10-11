@@ -1,0 +1,1 @@
+Spotify plugin licenças ativas
